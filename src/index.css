@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  width: 100%;
+  min-height: 95vh;
+  height: auto;
+  background-image: url(/public/./img/todo\ background.jpg);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

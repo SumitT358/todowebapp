@@ -1,0 +1,41 @@
+.container {
+  max-width: 1140px;
+  margin: 24px auto;
+  padding: 2px;
+}
+
+.formContainer {
+  padding: 24px;
+}
+.heading {
+  text-align: center;
+  color: indigo;
+  margin-bottom: 32px;
+}
+.secondColoum {
+  margin: 24px 0px 24px 0px;
+}
+.listContainer {
+  background-color: white;
+  padding: 16px;
+  min-height: 300px;
+  height: auto;
+}
+.listContainerTitle {
+  padding-left: 16px;
+  color: indigo;
+  margin-bottom: 8px;
+}
+.remainTaskAvatar {
+  background-color: indigo;
+  color: inherit;
+}
+.emptymsg {
+  text-align: center;
+  color: gray;
+  margin-top: 24px;
+}
+.completeTaskAvatar {
+  background-color: green;
+  color: inherit;
+}
